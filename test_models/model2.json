@@ -1,0 +1,49 @@
+{
+  "order_uid": "order2",
+  "track_number": "WBILMTESTTRACK",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Asadchy Ilya",
+    "phone": "+09876543211",
+    "zip": "111111",
+    "city": "Moscow",
+    "address": "Varvarka 1",
+    "region": "Russia",
+    "email": "another@mail.com"
+  },
+  "payment": {
+    "transaction": "order2",
+    "request_id": "170238423",
+    "currency": "RU",
+    "provider": "applepay",
+    "amount": 18,
+    "payment_dt": 1637907712,
+    "bank": "sber",
+    "delivery_cost": 150,
+    "goods_total": 300,
+    "custom_fee": 10
+  },
+  "items": [
+    {
+      "chrt_id": 9999999,
+      "track_number": "WBILMTESTTRACK",
+      "price": 150000,
+      "rid": "ab4219087a764ae0btest",
+      "name": "IPhone 14",
+      "sale": 0,
+      "size": "10",
+      "total_price": 150000,
+      "nm_id": 2389212,
+      "brand": "Balmain",
+      "status": 202
+    }
+  ],
+  "locale": "ru",
+  "internal_signature": "hidden",
+  "customer_id": "newid",
+  "delivery_service": "dhl",
+  "shardkey": "10",
+  "sm_id": 87,
+  "date_created": "2022-04-08T06:22:19Z",
+  "oof_shard": "1"
+}
