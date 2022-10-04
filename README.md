@@ -12,3 +12,5 @@
 5. Поднять http сервер и выдавать данные по id из кеша
 6. Сделать простейший интерфейс отображения полученных данных, для
 их запроса по id
+
+![video](https://raw.githubusercontent.com/AlexSergo/Orders/main/video.gif)
